@@ -1,2 +1,1 @@
-# ludo_game
-Ludo board game project
+# ITU-ludo
